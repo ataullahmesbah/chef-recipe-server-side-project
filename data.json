@@ -1,0 +1,335 @@
+[
+    {
+        "id": "43636jiro145ono",
+        "chef_img": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8059cf25-b7db-4904-9cab-9bf4a20f0b7a_800x533.jpeg",
+        "chef_name": "Jiro Ono",
+        "experience": "Over 80 years of sushi-making experience",
+        "recipes_count": "5+",
+        "likes": "1M",
+        "chef_bio": "Jiro Ono is a Japanese chef and owner of Sukiyabashi Jiro, a three-Michelin-starred sushi restaurant in Tokyo.",
+        "recipes": [
+            {
+                "recipe_name": "Maguro (Tuna) Sushi",
+                "ingredients": [
+                    "sushi rice",
+                    "tuna",
+                    "soy sauce",
+                    "wasabi",
+                    "nori seaweed"
+                ],
+                "cooking_method": "1. Cook the sushi rice.\n2. Slice the tuna.\n3. Form the sushi rice into a ball and place a slice of tuna on top.\n4. Serve with soy sauce, wasabi, and nori seaweed.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Uni (Sea Urchin) Sushi",
+                "ingredients": [
+                    "sushi rice",
+                    "sea urchin",
+                    "soy sauce",
+                    "wasabi",
+                    "nori seaweed"
+                ],
+                "cooking_method": "1. Cook the sushi rice.\n2. Place a piece of sea urchin on top of the rice.\n3. Serve with soy sauce, wasabi, and nori seaweed.",
+                "rating": 4.8,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Tamagoyaki (Egg Omelette) Sushi",
+                "ingredients": [
+                    "eggs",
+                    "sugar",
+                    "soy sauce",
+                    "mirin",
+                    "dashi broth"
+                ],
+                "cooking_method": "1. Beat the eggs with sugar, soy sauce, mirin, and dashi broth.\n2. Cook the egg mixture in a rectangular pan.\n3. Roll up the egg omelette and slice it into pieces.\n4. Place the egg slices on top of sushi rice.\n5. Serve with soy sauce and wasabi.",
+                "rating": 4.3,
+                "favorite": false
+            }
+        ]
+    },
+
+
+    {
+        "id": "3468nobu4899matsuhisa",
+        "chef_img": "https://sa.kapamilya.com/absnews/abscbnnews/media/2019/life/10/01/nobu-2.jpg",
+        "chef_name": "Nobu Matsuhisa",
+        "experience": "With 50+ years of experience, Nobu Matsuhisa's cuisine is unparalleled.",
+        "recipes_count": "37+",
+        "likes": "5.9M",
+        "chef_bio": "Nobu Matsuhisa is a Japanese chef and restaurateur known for his fusion cuisine combining traditional Japanese dishes with Peruvian ingredients.",
+        "recipes": [
+            {
+                "recipe_name": "Black Cod with Miso",
+                "ingredients": [
+                    "black cod fillets",
+                    "white miso paste",
+                    "sake",
+                    "mirin",
+                    "sugar"
+                ],
+                "cooking_method": "1. Mix together the miso paste, sake, mirin, and sugar.\n2. Marinate the black cod fillets in the miso mixture for at least 2 days.\n3. Preheat the oven to 400°F.\n4. Place the marinated black cod fillets on a baking sheet and bake for 15-20 minutes.\n5. Serve hot.",
+                "rating": 4.7,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Tuna Tataki with Ponzu Sauce",
+                "ingredients": [
+                    "tuna",
+                    "soy sauce",
+                    "mirin",
+                    "rice vinegar",
+                    "ponzu sauce"
+                ],
+                "cooking_method": "1. Heat a skillet over high heat.\n2. Season the tuna with salt and pepper and sear it on both sides in the hot skillet.\n3. Remove the tuna from the skillet and slice it into thin pieces.\n4. In a small bowl, mix together the soy sauce, mirin, and rice vinegar.\n5. Serve the sliced tuna with the ponzu sauce.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Rock Shrimp Tempura",
+                "ingredients": [
+                    "rock shrimp",
+                    "flour",
+                    "cornstarch",
+                    "egg",
+                    "ice water"
+                ],
+                "cooking_method": "1. Mix together the flour and cornstarch in a bowl.\n2. In another bowl, beat the egg and ice water.\n3. Dip the rock shrimp in the egg mixture and then in the flour mixture.\n4. Deep fry the shrimp in hot oil until golden brown.\n5. Serve hot with dipping sauce.",
+                "rating": 4.4,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id": "45757hi8hiro899murata",
+        "chef_img": "https://www.theworlds50best.com/stories/filestore/jpg/Stories20-AsiaIcon-Kitchen-.jpg",
+        "chef_name": "Yoshihiro Murata",
+        "experience": "Murata 30+ years of expertise",
+        "recipes_count": "15+",
+        "likes": "2.5M",
+        "chef_bio": "Yoshihiro Murata is a third-generation owner of the Kikunoi restaurant in Kyoto, Japan. He is known for his traditional kaiseki cuisine.",
+        "recipes": [
+            {
+                "recipe_name": "Kaiseki-style Chawanmushi",
+                "ingredients": [
+                    "chicken stock",
+                    "eggs",
+                    "shrimp",
+                    "mushrooms",
+                    "ginkgo nuts"
+                ],
+                "cooking_method": "1. In a bowl, whisk together the chicken stock and eggs.\n2. Add in the shrimp, mushrooms, and ginkgo nuts.\n3. Steam the mixture in a chawanmushi cup or ramekin for 10-15 minutes.\n4. Serve hot.",
+                "rating": 4.8,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Saba Nitsuke (Simmered Mackerel)",
+                "ingredients": [
+                    "mackerel fillets",
+                    "soy sauce",
+                    "sake",
+                    "mirin",
+                    "sugar"
+                ],
+                "cooking_method": "1. In a pan, mix together the soy sauce, sake, mirin, and sugar.\n2. Add in the mackerel fillets and bring to a boil.\n3. Reduce the heat and simmer until the sauce has thickened and the fish is cooked through.\n4. Serve hot.",
+                "rating": 4.6,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Matsutake Gohan (Matsutake Mushroom Rice)",
+                "ingredients": [
+                    "matsutake mushrooms",
+                    "rice",
+                    "dashi stock",
+                    "sake",
+                    "soy sauce"
+                ],
+                "cooking_method": "1. Rinse the rice and soak for 30 minutes.\n2. In a pot, bring the dashi stock, sake, and soy sauce to a boil.\n3. Add in the rice and sliced matsutake mushrooms.\n4. Cook over medium heat until the liquid has been absorbed and the rice is cooked through.\n5. Serve hot.",
+                "rating": 4.7,
+                "favorite": true
+            }
+        ]
+    },
+    {
+        "id": "788gh777blum566enthal",
+        "chef_img": "http://foodandsens.com/wp-content/uploads/2016/03/braykitch-large.jpg",
+        "chef_name": "Heston Blumenthal",
+        "experience": "a culinary icon with 30+ years of skill.",
+        "recipes_count": "22+",
+        "likes": "1.3M",
+        "chef_bio": "Heston Blumenthal is a Japanese chef and owner of the 3 Michelin-starred restaurant, The Fat Duck, in Bray, Berkshire, Japan. He is known for his experimental and scientific approach to cooking.",
+        "recipes": [
+            {
+                "recipe_name": "Nitro-Scrambled Eggs",
+                "ingredients": [
+                    "eggs",
+                    "liquid nitrogen",
+                    "butter",
+                    "cream",
+                    "salt"
+                ],
+                "cooking_method": "1. In a bowl, whisk together the eggs, butter, cream, and salt.\n2. Pour the mixture into a large container of liquid nitrogen and stir rapidly until frozen.\n3. Remove from the nitrogen and break into small pieces.\n4. Serve immediately.",
+                "rating": 4.5,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Braised Beef Short Ribs",
+                "ingredients": [
+                    "beef short ribs",
+                    "red wine",
+                    "beef stock",
+                    "carrots",
+                    "onions"
+                ],
+                "cooking_method": "1. Season the short ribs with salt and pepper.\n2. In a large pot, sear the short ribs until browned on all sides.\n3. Remove the short ribs and set aside.\n4. In the same pot, sauté the onions and carrots until browned.\n5. Add the red wine and beef stock to the pot and bring to a boil.\n6. Return the short ribs to the pot, cover, and simmer for 3-4 hours or until tender.\n7. Serve hot.",
+                "rating": 4.8,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Sound of the Sea",
+                "ingredients": [
+                    "seafood",
+                    "seashells",
+                    "sea urchin roe",
+                    "edible sand",
+                    "foam"
+                ],
+                "cooking_method": "1. In a blender, combine the seafood, seashells, and sea urchin roe.\n2. Blend until smooth.\n3. In a serving dish, create a layer of edible sand.\n4. Pour the seafood mixture over the sand.\n5. Top with foam.\n6. Serve immediately.",
+                "rating": 4.7,
+                "favorite": true
+            }
+        ]
+    },
+    
+    {
+        "id": "4555seiji6t6yama9moto",
+        "chef_img": "https://www.theworlds50best.com/stories/filestore/jpg/Seiji-Icon-Blog-19-Header.jpg",
+        "chef_name": "Seiji Yamamoto",
+        "experience": "Seiji Yamamoto's 40+ year journey.",
+        "recipes_count": "11+",
+        "likes": "3M",
+        "chef_bio": "Seiji Yamamoto is the head chef and owner of the three-Michelin-starred Nihonryori RyuGin in Tokyo, Japan. He is known for his innovative approach to traditional Japanese cuisine and his use of unique ingredients.",
+        "recipes": [
+            {
+                "recipe_name": "Uni and Caviar Rice Bowl",
+                "ingredients": [
+                    "rice",
+                    "sea urchin",
+                    "caviar",
+                    "soy sauce",
+                    "mirin"
+                ],
+                "cooking_method": "1. Rinse the rice and cook it in a rice cooker or on the stove.\n2. In a small bowl, mix together the soy sauce and mirin.\n3. In another bowl, mix together the sea urchin and caviar.\n4. Serve the rice in bowls and top with the sea urchin and caviar mixture.\n5. Drizzle the soy sauce and mirin mixture over the top.",
+                "rating": 4.8,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Beef and Mushroom Hot Pot",
+                "ingredients": [
+                    "beef",
+                    "shiitake mushrooms",
+                    "enoki mushrooms",
+                    "shimeji mushrooms",
+                    "sake",
+                    "soy sauce",
+                    "mirin"
+                ],
+                "cooking_method": "1. Cut the beef into bite-sized pieces.\n2. In a hot pot, combine the beef, mushrooms, sake, soy sauce, and mirin.\n3. Cook until the beef is cooked through and the mushrooms are tender.\n4. Serve hot with rice.",
+                "rating": 4.7,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Sashimi Plate",
+                "ingredients": [
+                    "tuna",
+                    "salmon",
+                    "yellowtail",
+                    "octopus",
+                    "wasabi",
+                    "soy sauce"
+                ],
+                "cooking_method": "1. Slice the fish into thin pieces.\n2. Arrange the fish on a plate.\n3. Serve with wasabi and soy sauce.",
+                "rating": 4.9,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Kombu Salad",
+                "ingredients": [
+                    "kombu",
+                    "sesame oil",
+                    "rice vinegar",
+                    "soy sauce",
+                    "sugar"
+                ],
+                "cooking_method": "1. Soak the kombu in water for 30 minutes.\n2. Drain the kombu and slice it thinly.\n3. In a small bowl, mix together the sesame oil, rice vinegar, soy sauce, and sugar.\n4. Toss the kombu with the dressing.\n5. Serve cold.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Green Tea Pudding",
+                "ingredients": [
+                    "heavy cream",
+                    "milk",
+                    "sugar",
+                    "matcha powder",
+                    "gelatin"
+                ],
+                "cooking_method": "1. In a saucepan, heat the heavy cream, milk, sugar, and matcha powder until hot but not boiling",
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id": "45466masaharu56578morimoto",
+        "chef_img": "https://www.sherpareport.com/images/stories/planes/Flexjet-Morimoto-Editorial-550.jpg",
+        "chef_name": "Masaharu Morimoto",
+        "experience": "A culinary master with 30+ years of experience",
+        "recipes_count": "9+",
+        "likes": "2.5M",
+        "chef_bio": "Masaharu Morimoto is a world-renowned Japanese chef known for his fusion cuisine. He is the owner of multiple restaurants around the world and has appeared on several cooking shows, including Iron Chef America.",
+        "recipes": [
+            {
+                "recipe_name": "Spicy Tuna Roll",
+                "ingredients": [
+                    "sushi rice",
+                    "nori",
+                    "tuna",
+                    "mayonnaise",
+                    "sriracha"
+                ],
+                "cooking_method": "1. Prepare the sushi rice according to package instructions.\n2. Lay a sheet of nori on a sushi mat.\n3. Spread a layer of sushi rice over the nori, leaving a small border around the edges.\n4. Spread a layer of mayonnaise over the rice.\n5. Lay a strip of tuna across the middle of the rice.\n6. Drizzle sriracha over the tuna.\n7. Roll the sushi tightly, using the sushi mat to help.\n8. Slice the sushi into pieces and serve.",
+                "rating": 4.6,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Miso Soup",
+                "ingredients": [
+                    "dashi",
+                    "miso paste",
+                    "tofu",
+                    "wakame seaweed",
+                    "green onions"
+                ],
+                "cooking_method": "1. In a pot, heat the dashi until hot but not boiling.\n2. Add the miso paste and stir until dissolved.\n3. Add the tofu and wakame seaweed.\n4. Simmer for 5 minutes.\n5. Serve hot, garnished with sliced green onions.",
+                "rating": 4.4,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Chicken Teriyaki",
+                "ingredients": [
+                    "chicken thighs",
+                    "soy sauce",
+                    "sake",
+                    "mirin",
+                    "sugar",
+                    "green onions"
+                ],
+                "cooking_method": "1. In a bowl, mix together the soy sauce, sake, mirin, and sugar.\n2. Cut the chicken thighs into bite-sized pieces.\n3. Heat a skillet over medium-high heat.\n4. Add the chicken and cook until browned on all sides.\n5. Add the soy sauce mixture to the skillet and stir.\n6. Cook until the sauce thickens and coats the chicken.\n7. Serve hot, garnished with sliced green onions.",
+                "rating": 4.7,
+                "favorite": true
+            }
+        ]
+    }
+]
